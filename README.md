@@ -33,6 +33,5 @@ Mobile Compatibility: Touch event support for phones/tablets.
 Helps understand DOM manipulation, event handling, and audio APIs.
 Great portfolio project for beginner developers.
 
-Introduces creative coding and basic user int![Screenshot 2025-06-02 093002](https://github.com/user-attachments/assets/c76ffce6-4089-4e03-95a3-1ecd3cc025a1)
-erface design.
+![Screenshot 2025-06-02 093002](https://github.com/user-attachments/assets/c76ffce6-4089-4e03-95a3-1ecd3cc025a1)
 
