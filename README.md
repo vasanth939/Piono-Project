@@ -1,4 +1,4 @@
-# Piono-Project
+# Piano-Project
 A Classic Piano Project typically refers to a simple and interactive application (usually built using HTML, CSS, and JavaScript) that simulates the keys and sounds of a piano. It's a great beginner-to-intermediate level project for web development or creative coding. Here's an explanation of its components and how it works:
 
 🎹 Classic Piano Project – Explanation
@@ -31,7 +31,8 @@ Mobile Compatibility: Touch event support for phones/tablets.
 
 🎯 4. Use Cases & Learning Outcomes:
 Helps understand DOM manipulation, event handling, and audio APIs.
-
-Introduces creative coding and basic user interface design.
-
 Great portfolio project for beginner developers.
+
+Introduces creative coding and basic user int![Screenshot 2025-06-02 093002](https://github.com/user-attachments/assets/c76ffce6-4089-4e03-95a3-1ecd3cc025a1)
+erface design.
+
